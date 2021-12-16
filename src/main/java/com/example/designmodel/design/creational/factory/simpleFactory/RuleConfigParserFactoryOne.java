@@ -1,6 +1,6 @@
-package com.example.designmodel.design.factory.simpleFactory;
+package com.example.designmodel.design.creational.factory.simpleFactory;
 
-import com.example.designmodel.design.factory.parser.*;
+import com.example.designmodel.design.creational.factory.parser.*;
 
 /**
  * 简单工厂方式一

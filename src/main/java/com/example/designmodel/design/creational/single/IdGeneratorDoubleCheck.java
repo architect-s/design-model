@@ -1,4 +1,4 @@
-package com.example.designmodel.design.single;
+package com.example.designmodel.design.creational.single;
 
 /**
  * 双重检测

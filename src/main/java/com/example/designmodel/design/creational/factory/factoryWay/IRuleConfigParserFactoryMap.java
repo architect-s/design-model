@@ -1,4 +1,4 @@
-package com.example.designmodel.design.factory.factoryWay;
+package com.example.designmodel.design.creational.factory.factoryWay;
 
 import org.apache.commons.lang3.StringUtils;
 

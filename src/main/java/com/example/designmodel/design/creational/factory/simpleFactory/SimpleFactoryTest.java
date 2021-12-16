@@ -1,6 +1,6 @@
-package com.example.designmodel.design.factory.simpleFactory;
+package com.example.designmodel.design.creational.factory.simpleFactory;
 
-import com.example.designmodel.design.factory.parser.IRuleConfigParser;
+import com.example.designmodel.design.creational.factory.parser.IRuleConfigParser;
 
 public class SimpleFactoryTest {
 

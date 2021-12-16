@@ -1,7 +1,7 @@
-package com.example.designmodel.design.factory.factoryWay;
+package com.example.designmodel.design.creational.factory.factoryWay;
 
 
-import com.example.designmodel.design.factory.parser.IRuleConfigParser;
+import com.example.designmodel.design.creational.factory.parser.IRuleConfigParser;
 
 /**
  * 什么时候用工厂方法，什么时候用简单工厂模式？
